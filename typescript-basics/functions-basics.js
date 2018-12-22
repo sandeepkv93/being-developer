@@ -27,7 +27,7 @@ console.log('\n****foo5****');
 var foo5 = function (a, b, c, d, e) {
     if (c === void 0) { c = 0; }
     if (d === void 0) { d = 0; }
-    if (e) {
+    if (e != null) {
         return a + b + c + d + e;
     }
     else {

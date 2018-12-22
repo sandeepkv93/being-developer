@@ -28,7 +28,7 @@ console.log(foo4(10, 20, 30, 40));
 
 console.log('\n****foo5****');
 var foo5 = function (a: number, b: number, c: number = 0, d: number = 0, e ? : number): number { // ? means optional argument
-    if (e) {
+    if (e != null) {
         return a + b + c + d + e;
     } else {
         return a + b + c + d;
