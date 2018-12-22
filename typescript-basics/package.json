@@ -1,0 +1,27 @@
+{
+  "name": "typescript-basics",
+  "version": "1.0.0",
+  "description": "Exploring how to use typescript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepkv93/being-developer.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "npm",
+    "microsoft"
+  ],
+  "author": "sandeepkv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepkv93/being-developer/issues"
+  },
+  "homepage": "https://github.com/sandeepkv93/being-developer#readme"
+}
