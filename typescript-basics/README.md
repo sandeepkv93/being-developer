@@ -13,3 +13,5 @@ Typescript code is transpiled into javascript code which the browser understands
 ### Code Examples
 1. [Basic Datatypes](./hello-world.ts)
 1. [Functions](./functions-basics.ts)
+1. [Implicit Types](./implicit-types.ts)
+1. [Any and Union Types](./any-and-union.ts)
