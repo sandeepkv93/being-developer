@@ -5,3 +5,4 @@ Experiments, Tutorials, Example of various software developement stuffs
 1. [Typescript Basics](./typescript-basics/README.md)
 1. [Python Simple Flask App and Heroku Deployment](./python-flask-sample-app/README.md)
 1. [Java Multithreading](./java-multithreading/README.md)
+1. [PostgresDB](./postgresdb/README.md)
