@@ -1,5 +1,5 @@
 # being-developer
-Experiments, Tutorials, Example of various software developement and computer science concepts
+Experiments, Tutorials, Example of various software development and computer science concepts
 
 ### Table of contents
 1. [Typescript Basics](https://github.com/sandeepkv93/typescript-basics)
