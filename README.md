@@ -1,4 +1,4 @@
-# being-developer
+# Being Developer
 Experiments, Tutorials, Example of various software development and computer science concepts
 
 ### Table of contents
@@ -9,8 +9,9 @@ Experiments, Tutorials, Example of various software development and computer sci
 1. [Example to create a Spot VM using Dotnet C#](https://github.com/sandeepkv93/SpotVM-In-Azure-Using-C-Sharp)
 1. [CSharp Delegates Demo](https://github.com/sandeepkv93/C-Sharp-Delegates-Demo)
 1. [Node JS Simple UDP Server and Client Example](https://github.com/sandeepkv93/nodejs-udp-server-client)
+1. [Parallel Job Scheduler With Dependent Jobs](https://github.com/sandeepkv93/parallel-job-scheduler-with-dependent-jobs)
+1. [Delayed Job Scheduler](https://github.com/sandeepkv93/delayed-job-scheduler)
 1. [Graph Algorithms in Java](https://github.com/sandeepkv93/Graph-Algorithms-In-Java)
 1. [Java Data Structures Syntax for Leetcode](https://github.com/sandeepkv93/Java-Data-Structures-Syntax-For-Leetcode)
 1. [Using InMemory Caching and Redis Caching in ASP.NET Web API](https://github.com/sandeepkv93/WebAppWithRedisCache)
 1. [Asynchronous C# Experiments](https://github.com/sandeepkv93/Aynchronous-CSharp-Experiments)
-1. [Asynchronous Parallel Job Scheduler using C#](https://github.com/sandeepkv93/ParallelJobScheduler)
