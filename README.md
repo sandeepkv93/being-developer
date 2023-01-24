@@ -13,5 +13,6 @@ Experiments, Tutorials, Example of various software development and computer sci
 1. [Delayed Job Scheduler](https://github.com/sandeepkv93/delayed-job-scheduler)
 1. [Graph Algorithms in Java](https://github.com/sandeepkv93/Graph-Algorithms-In-Java)
 1. [Java Data Structures Syntax for Leetcode](https://github.com/sandeepkv93/Java-Data-Structures-Syntax-For-Leetcode)
+1. [Consistent Hashing using Go](https://github.com/sandeepkv93/consistent-hashing)
 1. [Using InMemory Caching and Redis Caching in ASP.NET Web API](https://github.com/sandeepkv93/WebAppWithRedisCache)
 1. [Asynchronous C# Experiments](https://github.com/sandeepkv93/Aynchronous-CSharp-Experiments)
